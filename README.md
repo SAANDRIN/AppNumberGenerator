@@ -1,5 +1,5 @@
 # Aplicativo Gerador de Números
-- Este app foi criado no intuito de reforçar os conhecimentosde kotlin por meio de prática.
+- Este app foi criado no intuito de reforçar os conhecimentos de kotlin por meio de prática.
 
 _**Imagem Demonstrativa**_
 
